@@ -1,3 +1,8 @@
+#         © Copyright Adam Aharony (a.k.a. Cringy Adam)
+#                    All rights reserved
+#      Twitter: @AdamAharony, Discord: @Cringy Adam#4611
+
+
 import discord
 import asyncio
 import sys
