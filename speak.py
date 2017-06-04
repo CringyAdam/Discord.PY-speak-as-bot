@@ -36,4 +36,4 @@ async def console_input():
     await console_input()
 
 
-client.run(token, bot=botstatus)
+client.run(token, bot = botstatus)
